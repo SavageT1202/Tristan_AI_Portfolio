@@ -1,0 +1,24 @@
+1. Features that can be used include:
+
+Transaction amounts
+Date and time
+Location
+Type of purchase
+What was purchased
+2. If a transaction is fraudulent or legitimate
+
+3. Can contain whether there are any previous purchases and use those to decide whether or not they are fraudulent or legitimate.
+
+4. In case there are any issues in the test, or to see if the machine can learn to process a new transaction and determine if it's fraud or not.
+
+5. If it predicts a legit transaction is fraud
+
+6. If it predicts a fraud transaction is legit
+
+7. Recall because it measures how well models respond to legit or fraudulent detection
+
+8. Incorrect data, missing info, missing location or transaction amounts, in case outdated times because these can all cause the place they work with to not help them because they don't have enough info to go off of.
+
+9. If the model is too big or what it's looking for is possibly too small and specific.
+
+10. I would trust the model only if it has a good and clean record of doing things right and correctly.
